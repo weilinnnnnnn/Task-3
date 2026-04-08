@@ -2,9 +2,54 @@
 
 # Task 2 Collision-generating Techniques
 ## Overview
-We are investigating the different types of collision-generating techniques. To do so, we demonstrate IPC using FastColl and UniColl, CPC using FastCPC and reusable collisions using the precomputed examples from the corkami repository.
+We are investigating the different types of collision-generating techniques. To do so, we demonstrate IPC using FastColl and UniColl, CPC using FastCPC and reusable collisions using formatting tricks using the precomputed examples from the corkami repository. These are built on top of HashClash by Marc Stevens (https://github.com/cr-marcstevens/hashclash) and corkami/collisions (https://github.com/corkami/collisions) by Ange ALbertini.
 
+## Compilation and Installation
+### Clone the repository 
+```bash
+git clone https://github.com/weilinnnnnnn/Practical-Collision-Attack
+```
 
+## Running the collisions
+### Identical-Prefix Collisions
+#### FastColl
+```bash
+cd fastcoll_run
+# prefix is "prefix"
+time ../bin/md5_fastcoll -p ipc_prefix.bin -o fastcoll1.bin fastcoll2.bin
+```
+Expected output:
+``` bash
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Using output filenames: 'fastcoll1.bin' and 'fastcoll2.bin'
+Using prefixfile: 'ipc_prefix.bin'
+Using initial value: c11b028f865667bf0b5c2b9f17601e77
+
+Generating first block: ........
+Generating second block: S00.......
+Running time: 1.71593 s
+../bin/md5_fastcoll -p ipc_prefix.bin -o fastcoll1.bin fastcoll2.bin  1.71s user 0.01s system 99% cpu 1.733 total
+```
+To verify:
+``` bash
+md5sum fastcoll1.bin fastcoll2.bin      # match
+sha256sum fastcoll1.bin fastcoll2.bin   # differ
+```
+
+#### UniColl
+```bash
+cd unicoll_run
+time ../scripts/generic_ipc.sh ipc_prefix.bin
+```
+To verify:
+``` bash
+md5sum collision1.bin collision2.bin      # match
+sha256sum collision1.bin collision2.bin   # differ
+```
+
+### Chosen-Prefix Collisions
 
 # Task 3 Unicoll Collision for PDF Files
 ## Overview
