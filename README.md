@@ -1,3 +1,11 @@
+# Practical Collision Attacks
+
+# Task 2 Collision-generating Techniques
+## Overview
+We are investigating the different types of collision-generating techniques. To do so, we demonstrate IPC using FastColl and UniColl, CPC using FastCPC and reusable collisions using the precomputed examples from the corkami repository.
+
+
+
 # Task 3 Unicoll Collision for PDF Files
 ## Overview
 We are demonstrating identical prefix collision attack on PDF files. Two PDF files with different visible content are generated using the reportlab library and then fed into a collision script to produce two different output files (collision1.pdf, collision2.pdf) that have identical MD5 hashes but different content.
