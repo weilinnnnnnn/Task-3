@@ -183,8 +183,8 @@ The follwing files are also taken from the corkami/collisions repository by Ange
  - pdf1.bin
  - pdf2.bin
 
-#Task 4: Forging Digital Contract
-##Overview
+# Task 4: Forging Digital Contract
+## Overview
 We are demonstrating how we can make use of identical prefix collision (IPC) to produce 2 contracts with different payment amount stated with the same MD5 hashes. Two contracts will be generated, one showing a payment amount of $10 while the other showing $10000. 
 
 ## Prerequisites
