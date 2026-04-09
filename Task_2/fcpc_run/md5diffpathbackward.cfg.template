@@ -1,0 +1,5 @@
+autobalance = 4000000
+estimate = 4
+fillfraction = 1
+maxsdrs = 1
+condtend = 35

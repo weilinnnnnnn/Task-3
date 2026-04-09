@@ -1,0 +1,303 @@
+date: invalid argument 's' for -I
+[LVL0][][START CHOSEN-PREFIX COLLISION ATTACK] 
+[LVL0][+0s][WRITING CONFIGURATION FILES] 
+[LVL0][+0s][PRECOMPUTE] Precomputing missing precomputation files
+[LVL1][+0s][PRECOMPUTE 2] START
+[LVL1][+68s][PRECOMPUTE 2] DONE: 68 s
+[LVL1][+68s][PRECOMPUTE -2] NEGATE FROM 2
+[LVL1][+74s][PRECOMPUTE 3] START
+[LVL2][+155s][PRECOMPUTE 3] Using maxQ26upcond = 40
+[LVL1][+239s][PRECOMPUTE 3] DONE: 165 s
+[LVL1][+239s][PRECOMPUTE -3] NEGATE FROM 3
+[LVL1][+245s][PRECOMPUTE 4] START
+[LVL2][+328s][PRECOMPUTE 4] Using maxQ26upcond = 40
+[LVL1][+404s][PRECOMPUTE 4] DONE: 159 s
+[LVL1][+404s][PRECOMPUTE -4] NEGATE FROM 4
+[LVL1][+410s][PRECOMPUTE 5] START
+[LVL2][+492s][PRECOMPUTE 5] Using maxQ26upcond = 40
+[LVL1][+568s][PRECOMPUTE 5] DONE: 158 s
+[LVL1][+568s][PRECOMPUTE -5] NEGATE FROM 5
+[LVL1][+574s][PRECOMPUTE 6] START
+[LVL2][+654s][PRECOMPUTE 6] Using maxQ26upcond = 40
+[LVL1][+728s][PRECOMPUTE 6] DONE: 154 s
+[LVL1][+728s][PRECOMPUTE -6] NEGATE FROM 6
+[LVL1][+733s][PRECOMPUTE 7] START
+[LVL2][+949s][PRECOMPUTE 7] Using maxQ26upcond = 40
+[LVL1][+1037s][PRECOMPUTE 7] DONE: 304 s
+[LVL1][+1037s][PRECOMPUTE -7] NEGATE FROM 7
+[LVL1][+1043s][PRECOMPUTE 8] START
+[LVL2][+1119s][PRECOMPUTE 8] Using maxQ26upcond = 40
+[LVL1][+1187s][PRECOMPUTE 8] DONE: 144 s
+[LVL1][+1187s][PRECOMPUTE -8] NEGATE FROM 8
+[LVL1][+1193s][PRECOMPUTE 9] START
+[LVL2][+1270s][PRECOMPUTE 9] Using maxQ26upcond = 40
+[LVL1][+1339s][PRECOMPUTE 9] DONE: 146 s
+[LVL1][+1339s][PRECOMPUTE -9] NEGATE FROM 9
+[LVL1][+1345s][PRECOMPUTE 10] START
+[LVL2][+1429s][PRECOMPUTE 10] Using maxQ26upcond = 40
+[LVL1][+1502s][PRECOMPUTE 10] DONE: 157 s
+[LVL1][+1502s][PRECOMPUTE -10] NEGATE FROM 10
+[LVL1][+1508s][PRECOMPUTE 11] START
+[LVL2][+1931s][PRECOMPUTE 11] Using maxQ26upcond = 40
+[LVL1][+2013s][PRECOMPUTE 11] DONE: 505 s
+[LVL1][+2013s][PRECOMPUTE -11] NEGATE FROM 11
+[LVL1][+2019s][PRECOMPUTE 12] START
+[LVL2][+2099s][PRECOMPUTE 12] Using maxQ26upcond = 40
+[LVL1][+2178s][PRECOMPUTE 12] DONE: 159 s
+[LVL1][+2178s][PRECOMPUTE -12] NEGATE FROM 12
+[LVL1][+2183s][PRECOMPUTE 13] START
+[LVL2][+2263s][PRECOMPUTE 13] Using maxQ26upcond = 40
+[LVL1][+2331s][PRECOMPUTE 13] DONE: 148 s
+[LVL1][+2331s][PRECOMPUTE -13] NEGATE FROM 13
+[LVL1][+2336s][PRECOMPUTE 14] START
+[LVL2][+2411s][PRECOMPUTE 14] Using maxQ26upcond = 40
+[LVL1][+2473s][PRECOMPUTE 14] DONE: 137 s
+[LVL1][+2473s][PRECOMPUTE -14] NEGATE FROM 14
+[LVL1][+2479s][PRECOMPUTE 15] START
+[LVL2][+2551s][PRECOMPUTE 15] Using maxQ26upcond = 40
+[LVL1][+2624s][PRECOMPUTE 15] DONE: 145 s
+[LVL1][+2624s][PRECOMPUTE -15] NEGATE FROM 15
+[LVL1][+2630s][PRECOMPUTE 16] START
+[LVL2][+2703s][PRECOMPUTE 16] Using maxQ26upcond = 40
+[LVL1][+2781s][PRECOMPUTE 16] DONE: 151 s
+[LVL1][+2781s][PRECOMPUTE -16] NEGATE FROM 16
+[LVL1][+2786s][PRECOMPUTE 17] START
+[LVL2][+2921s][PRECOMPUTE 17] Using maxQ26upcond = 40
+[LVL1][+3496s][PRECOMPUTE 17] DONE: 710 s
+[LVL1][+3496s][PRECOMPUTE -17] NEGATE FROM 17
+[LVL1][+3501s][PRECOMPUTE 18] START
+[LVL2][+4586s][PRECOMPUTE 18] Using maxQ26upcond = 40
+[LVL1][+5174s][PRECOMPUTE 18] DONE: 1673 s
+[LVL1][+5174s][PRECOMPUTE -18] NEGATE FROM 18
+[LVL1][+5180s][PRECOMPUTE 19] START
+[LVL2][+5269s][PRECOMPUTE 19] Using maxQ26upcond = 40
+[LVL1][+5359s][PRECOMPUTE 19] DONE: 179 s
+[LVL1][+5359s][PRECOMPUTE -19] NEGATE FROM 19
+[LVL1][+5365s][PRECOMPUTE 20] START
+[LVL2][+5456s][PRECOMPUTE 20] Using maxQ26upcond = 40
+[LVL1][+5532s][PRECOMPUTE 20] DONE: 167 s
+[LVL1][+5532s][PRECOMPUTE -20] NEGATE FROM 20
+[LVL1][+5537s][PRECOMPUTE 21] START
+[LVL2][+5619s][PRECOMPUTE 21] Using maxQ26upcond = 40
+[LVL1][+5698s][PRECOMPUTE 21] DONE: 161 s
+[LVL1][+5698s][PRECOMPUTE -21] NEGATE FROM 21
+[LVL1][+5704s][PRECOMPUTE 22] START
+[LVL2][+5789s][PRECOMPUTE 22] Using maxQ26upcond = 40
+[LVL1][+5923s][PRECOMPUTE 22] DONE: 219 s
+[LVL1][+5923s][PRECOMPUTE -22] NEGATE FROM 22
+[LVL1][+5929s][PRECOMPUTE 23] START
+[LVL2][+6018s][PRECOMPUTE 23] Using maxQ26upcond = 40
+[LVL1][+6159s][PRECOMPUTE 23] DONE: 230 s
+[LVL1][+6159s][PRECOMPUTE -23] NEGATE FROM 23
+[LVL1][+6165s][PRECOMPUTE 24] START
+[LVL2][+6240s][PRECOMPUTE 24] Using maxQ26upcond = 40
+[LVL1][+6308s][PRECOMPUTE 24] DONE: 143 s
+[LVL1][+6308s][PRECOMPUTE -24] NEGATE FROM 24
+[LVL1][+6313s][PRECOMPUTE 25] START
+[LVL2][+6393s][PRECOMPUTE 25] Using maxQ26upcond = 40
+[LVL1][+6464s][PRECOMPUTE 25] DONE: 151 s
+[LVL1][+6464s][PRECOMPUTE -25] NEGATE FROM 25
+[LVL1][+6469s][PRECOMPUTE 26] START
+[LVL2][+6542s][PRECOMPUTE 26] Using maxQ26upcond = 40
+[LVL1][+6609s][PRECOMPUTE 26] DONE: 140 s
+[LVL1][+6609s][PRECOMPUTE -26] NEGATE FROM 26
+[LVL1][+6614s][PRECOMPUTE 27] START
+[LVL2][+6686s][PRECOMPUTE 27] Using maxQ26upcond = 40
+[LVL1][+6760s][PRECOMPUTE 27] DONE: 146 s
+[LVL1][+6760s][PRECOMPUTE -27] NEGATE FROM 27
+[LVL1][+6766s][PRECOMPUTE 28] START
+[LVL2][+6840s][PRECOMPUTE 28] Using maxQ26upcond = 40
+[LVL1][+6912s][PRECOMPUTE 28] DONE: 146 s
+[LVL1][+6912s][PRECOMPUTE -28] NEGATE FROM 28
+[LVL1][+6918s][PRECOMPUTE 29] START
+[LVL2][+6994s][PRECOMPUTE 29] Using maxQ26upcond = 40
+[LVL1][+7063s][PRECOMPUTE 29] DONE: 145 s
+[LVL1][+7063s][PRECOMPUTE -29] NEGATE FROM 29
+[LVL1][+7068s][PRECOMPUTE 30] START
+[LVL2][+7149s][PRECOMPUTE 30] Using maxQ26upcond = 40
+[LVL1][+7218s][PRECOMPUTE 30] DONE: 150 s
+[LVL1][+7218s][PRECOMPUTE -30] NEGATE FROM 30
+[LVL1][+7224s][PRECOMPUTE 31] START
+[LVL2][+7299s][PRECOMPUTE 31] Using maxQ26upcond = 40
+[LVL1][+7359s][PRECOMPUTE 31] DONE: 135 s
+[LVL1][+7359s][PRECOMPUTE -31] NEGATE FROM 31
+[LVL1][+7365s][PRECOMPUTE 32] START
+[LVL2][+7439s][PRECOMPUTE 32] Using maxQ26upcond = 40
+[LVL1][+7500s][PRECOMPUTE 32] DONE: 135 s
+[LVL2][+7500s][KILL PROCESS ON NODE0] md5_birthdaysearch
+No matching processes belonging to you were found
+[LVL2][+7500s][KILL PROCESS ON NODE0] md5_diffpathhelper
+No matching processes belonging to you were found
+[LVL2][+7500s][KILL PROCESS ON NODE0] md5_diffpathconnect
+No matching processes belonging to you were found
+[LVL2][+7500s][KILL PROCESS ON NODE0] md5_diffpathforward
+No matching processes belonging to you were found
+[LVL0][+7500s][START BIRTHDAY] ...
+[LVL1][+7500s][DISTRIBUTING BIRTHDAY] ../scripts/../bin/md5_birthdaysearch -w birthday_workdir -i <nodeidx> -m 1 --cuda_enable --saveloadwait 1 --pathtyperange 2 --hybridbits 0 --maxblocks 7 --maxmemory 8000 --inputfile1 fcpc_prefix_a.bin --inputfile2 fcpc_prefix_b.bin
+[LVL2][+7500s][START PROCESS ON NODE0] ../scripts/../bin/md5_birthdaysearch -w birthday_workdir -i 0 -m 1 --cuda_enable --saveloadwait 1 --pathtyperange 2 --hybridbits 0 --maxblocks 7 --maxmemory 8000 --inputfile1 fcpc_prefix_a.bin --inputfile2 fcpc_prefix_b.bin > birthday_workdir/birthday_con_node0.log
+[LVL0][+12908s][BIRTHDAY DONE] FINISHED: 5408 s
+[LVL2][+12908s][KILL PROCESS ON NODE0] md5_birthdaysearch
+[LVL0][+12908s][NC-BLOCK 0] Prepare near-collision files
+../scripts/fastcpc.sh: line 352: 48998 Terminated: 15          $* > $logfile 2>&1
+[LVL2][+12909s][NC-BLOCK 0] DIFF=-8 UPPERPATH=precompute/diff-8/paths16_0of1_1000000.bin.gz
+[LVL0][+12909s][NC-BLOCK 0] Starting connect process in background ...
+[LVL2][+12909s][NC-BLOCK 0] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir0 -t 12 --inputfilelow workdir0/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff-8/paths16_0of1_1000000.bin.gz > workdir0/connect.log &
+[LVL0][+12909s][NC-BLOCK 0] Forward phase ...
+[LVL2][+12909s][NC-BLOCK 0] Running command: ../scripts/../bin/md5_diffpathforward -w workdir0 -f workdir0/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir0/forward.log
+[LVL0][+12969s][NC-BLOCK 0] Wait for full differential paths from connect
+[LVL0][+12993s][NC-BLOCK 0] Starting collision finding: tottunnel=37, totcond=541
+../scripts/fastcpc.sh: line 352: 64760 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+12996s][NC-BLOCK 0] Starting collision finding: tottunnel=38, totcond=541
+../scripts/fastcpc.sh: line 352: 64789 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13006s][NC-BLOCK 0] Starting collision finding: tottunnel=38, totcond=541
+../scripts/fastcpc.sh: line 352: 64843 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13045s][NC-BLOCK 0] Starting collision finding: tottunnel=38, totcond=541
+../scripts/fastcpc.sh: line 352: 65009 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13068s][NC-BLOCK 0] Starting collision finding: tottunnel=39, totcond=540
+../scripts/fastcpc.sh: line 352: 65130 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13079s][NC-BLOCK 0] Starting collision finding: tottunnel=39, totcond=540
+../scripts/fastcpc.sh: line 352: 65191 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13090s][NC-BLOCK 0] Starting collision finding: tottunnel=39, totcond=540
+../scripts/fastcpc.sh: line 352: 65249 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13100s][NC-BLOCK 0] Starting collision finding: tottunnel=39, totcond=540
+[LVL0][+13227s][NC-BLOCK 0] Collision found
+No matching processes belonging to you were found
+[LVL0][+13227s][NC-BLOCK 0] FINISHED: 319 s
+../scripts/fastcpc.sh: line 352: 64681 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL0][+13227s][NC-BLOCK 1] Prepare near-collision files
+[LVL2][+13227s][NC-BLOCK 1] DIFF=5 UPPERPATH=precompute/diff5/paths16_0of1_1000000.bin.gz
+[LVL0][+13227s][NC-BLOCK 1] Starting connect process in background ...
+[LVL2][+13227s][NC-BLOCK 1] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir1 -t 12 --inputfilelow workdir1/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff5/paths16_0of1_1000000.bin.gz > workdir1/connect.log &
+[LVL0][+13227s][NC-BLOCK 1] Forward phase ...
+[LVL2][+13227s][NC-BLOCK 1] Running command: ../scripts/../bin/md5_diffpathforward -w workdir1 -f workdir1/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir1/forward.log
+[LVL0][+13290s][NC-BLOCK 1] Wait for full differential paths from connect
+[LVL0][+13360s][NC-BLOCK 1] Starting collision finding: tottunnel=35, totcond=553
+../scripts/fastcpc.sh: line 352: 65988 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13387s][NC-BLOCK 1] Starting collision finding: tottunnel=35, totcond=553
+../scripts/fastcpc.sh: line 352: 66106 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13398s][NC-BLOCK 1] Starting collision finding: tottunnel=35, totcond=553
+../scripts/fastcpc.sh: line 352: 66162 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13470s][NC-BLOCK 1] Starting collision finding: tottunnel=35, totcond=553
+../scripts/fastcpc.sh: line 352: 66465 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13590s][NC-BLOCK 1] Starting collision finding: tottunnel=35, totcond=553
+[LVL0][+13864s][NC-BLOCK 1] Collision found
+No matching processes belonging to you were found
+[LVL0][+13864s][NC-BLOCK 1] FINISHED: 637 s
+[LVL0][+13864s][NC-BLOCK 2] Prepare near-collision files
+../scripts/fastcpc.sh: line 352: 65877 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL2][+13865s][NC-BLOCK 2] DIFF=27 UPPERPATH=precompute/diff27/paths16_0of1_1000000.bin.gz
+[LVL0][+13865s][NC-BLOCK 2] Starting connect process in background ...
+[LVL2][+13865s][NC-BLOCK 2] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir2 -t 12 --inputfilelow workdir2/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff27/paths16_0of1_1000000.bin.gz > workdir2/connect.log &
+[LVL0][+13865s][NC-BLOCK 2] Forward phase ...
+[LVL2][+13865s][NC-BLOCK 2] Running command: ../scripts/../bin/md5_diffpathforward -w workdir2 -f workdir2/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir2/forward.log
+[LVL0][+13927s][NC-BLOCK 2] Wait for full differential paths from connect
+[LVL0][+13958s][NC-BLOCK 2] Starting collision finding: tottunnel=36, totcond=555
+../scripts/fastcpc.sh: line 352: 68162 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13960s][NC-BLOCK 2] Starting collision finding: tottunnel=37, totcond=553
+../scripts/fastcpc.sh: line 352: 68186 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13976s][NC-BLOCK 2] Starting collision finding: tottunnel=37, totcond=553
+../scripts/fastcpc.sh: line 352: 68266 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+13986s][NC-BLOCK 2] Starting collision finding: tottunnel=37, totcond=553
+../scripts/fastcpc.sh: line 352: 68322 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14001s][NC-BLOCK 2] Starting collision finding: tottunnel=37, totcond=553
+../scripts/fastcpc.sh: line 352: 68393 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14019s][NC-BLOCK 2] Starting collision finding: tottunnel=37, totcond=553
+../scripts/fastcpc.sh: line 352: 68477 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14081s][NC-BLOCK 2] Starting collision finding: tottunnel=38, totcond=553
+../scripts/fastcpc.sh: line 352: 68737 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14092s][NC-BLOCK 2] Starting collision finding: tottunnel=39, totcond=552
+[LVL0][+14136s][NC-BLOCK 2] Collision found
+No matching processes belonging to you were found
+[LVL0][+14136s][NC-BLOCK 2] FINISHED: 272 s
+../scripts/fastcpc.sh: line 352: 68100 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL0][+14136s][NC-BLOCK 3] Prepare near-collision files
+[LVL2][+14136s][NC-BLOCK 3] DIFF=3 UPPERPATH=precompute/diff3/paths16_0of1_1000000.bin.gz
+[LVL0][+14136s][NC-BLOCK 3] Starting connect process in background ...
+[LVL2][+14136s][NC-BLOCK 3] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir3 -t 12 --inputfilelow workdir3/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff3/paths16_0of1_1000000.bin.gz > workdir3/connect.log &
+[LVL0][+14136s][NC-BLOCK 3] Forward phase ...
+[LVL2][+14136s][NC-BLOCK 3] Running command: ../scripts/../bin/md5_diffpathforward -w workdir3 -f workdir3/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir3/forward.log
+[LVL0][+14197s][NC-BLOCK 3] Wait for full differential paths from connect
+[LVL0][+14224s][NC-BLOCK 3] Starting collision finding: tottunnel=35, totcond=573
+../scripts/fastcpc.sh: line 352: 69080 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14226s][NC-BLOCK 3] Starting collision finding: tottunnel=36, totcond=554
+../scripts/fastcpc.sh: line 352: 69103 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14237s][NC-BLOCK 3] Starting collision finding: tottunnel=36, totcond=554
+[LVL0][+14300s][NC-BLOCK 3] Collision found
+No matching processes belonging to you were found
+[LVL0][+14300s][NC-BLOCK 3] FINISHED: 164 s
+[LVL0][+14300s][NC-BLOCK 4] Prepare near-collision files
+../scripts/fastcpc.sh: line 352: 69022 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL2][+14300s][NC-BLOCK 4] DIFF=-13 UPPERPATH=precompute/diff-13/paths16_0of1_1000000.bin.gz
+[LVL0][+14300s][NC-BLOCK 4] Starting connect process in background ...
+[LVL2][+14300s][NC-BLOCK 4] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir4 -t 12 --inputfilelow workdir4/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff-13/paths16_0of1_1000000.bin.gz > workdir4/connect.log &
+[LVL0][+14300s][NC-BLOCK 4] Forward phase ...
+[LVL2][+14300s][NC-BLOCK 4] Running command: ../scripts/../bin/md5_diffpathforward -w workdir4 -f workdir4/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir4/forward.log
+[LVL0][+14365s][NC-BLOCK 4] Wait for full differential paths from connect
+[LVL0][+14394s][NC-BLOCK 4] Starting collision finding: tottunnel=36, totcond=559
+../scripts/fastcpc.sh: line 352: 69522 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14396s][NC-BLOCK 4] Starting collision finding: tottunnel=36, totcond=559
+../scripts/fastcpc.sh: line 352: 69544 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14407s][NC-BLOCK 4] Starting collision finding: tottunnel=36, totcond=559
+../scripts/fastcpc.sh: line 352: 69602 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14418s][NC-BLOCK 4] Starting collision finding: tottunnel=38, totcond=545
+../scripts/fastcpc.sh: line 352: 69660 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14428s][NC-BLOCK 4] Starting collision finding: tottunnel=38, totcond=545
+[LVL0][+14434s][NC-BLOCK 4] Collision found
+No matching processes belonging to you were found
+[LVL0][+14434s][NC-BLOCK 4] FINISHED: 134 s
+[LVL0][+14434s][NC-BLOCK 5] Prepare near-collision files
+../scripts/fastcpc.sh: line 352: 69454 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL2][+14434s][NC-BLOCK 5] DIFF=17 UPPERPATH=precompute/diff17/paths16_0of1_1000000.bin.gz
+[LVL0][+14434s][NC-BLOCK 5] Starting connect process in background ...
+[LVL2][+14434s][NC-BLOCK 5] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir5 -t 12 --inputfilelow workdir5/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff17/paths16_0of1_1000000.bin.gz > workdir5/connect.log &
+[LVL0][+14434s][NC-BLOCK 5] Forward phase ...
+[LVL2][+14434s][NC-BLOCK 5] Running command: ../scripts/../bin/md5_diffpathforward -w workdir5 -f workdir5/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir5/forward.log
+[LVL0][+14494s][NC-BLOCK 5] Wait for full differential paths from connect
+[LVL0][+14526s][NC-BLOCK 5] Starting collision finding: tottunnel=35, totcond=559
+../scripts/fastcpc.sh: line 352: 69865 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14527s][NC-BLOCK 5] Starting collision finding: tottunnel=35, totcond=559
+../scripts/fastcpc.sh: line 352: 69884 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14538s][NC-BLOCK 5] Starting collision finding: tottunnel=37, totcond=555
+../scripts/fastcpc.sh: line 352: 69945 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14554s][NC-BLOCK 5] Starting collision finding: tottunnel=37, totcond=555
+../scripts/fastcpc.sh: line 352: 70025 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14564s][NC-BLOCK 5] Starting collision finding: tottunnel=39, totcond=553
+[LVL0][+14603s][NC-BLOCK 5] Collision found
+No matching processes belonging to you were found
+[LVL0][+14603s][NC-BLOCK 5] FINISHED: 169 s
+[LVL0][+14603s][NC-BLOCK 6] Prepare near-collision files
+../scripts/fastcpc.sh: line 352: 69785 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL2][+14603s][NC-BLOCK 6] DIFF=22 UPPERPATH=precompute/diff22/paths16_0of1_1000000.bin.gz
+[LVL0][+14603s][NC-BLOCK 6] Starting connect process in background ...
+[LVL2][+14603s][NC-BLOCK 6] Running command: ../scripts/../bin/md5_diffpathconnect --threads 6 -w workdir6 -t 12 --inputfilelow workdir6/paths11_0of1.bin.gz.done --inputfilehigh precompute/diff22/paths16_0of1_1000000.bin.gz > workdir6/connect.log &
+[LVL0][+14603s][NC-BLOCK 6] Forward phase ...
+[LVL2][+14603s][NC-BLOCK 6] Running command: ../scripts/../bin/md5_diffpathforward -w workdir6 -f workdir6/lowerpath.bin.gz --normalt01 -t 1 --trange 10 > workdir6/forward.log
+[LVL0][+14645s][NC-BLOCK 6] Wait for full differential paths from connect
+[LVL0][+14677s][NC-BLOCK 6] Starting collision finding: tottunnel=39, totcond=534
+../scripts/fastcpc.sh: line 352: 70337 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14741s][NC-BLOCK 6] Starting collision finding: tottunnel=40, totcond=533
+../scripts/fastcpc.sh: line 352: 70600 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14752s][NC-BLOCK 6] Starting collision finding: tottunnel=40, totcond=533
+../scripts/fastcpc.sh: line 352: 70666 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14802s][NC-BLOCK 6] Starting collision finding: tottunnel=41, totcond=531
+../scripts/fastcpc.sh: line 352: 70882 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+14812s][NC-BLOCK 6] Starting collision finding: tottunnel=44, totcond=530
+../scripts/fastcpc.sh: line 352: 70947 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+15004s][NC-BLOCK 6] Starting collision finding: tottunnel=44, totcond=530
+../scripts/fastcpc.sh: line 352: 71744 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+15014s][NC-BLOCK 6] Starting collision finding: tottunnel=44, totcond=530
+../scripts/fastcpc.sh: line 352: 71802 Terminated: 15          $HASHCLASHBIN/md5_diffpathhelper -w workdir$i --inputfile1 workdir$i/collfindpaths.bin.gz --findcollision --threads $HALFTHREADS >> workdir$i/collfind.log 2>&1
+[LVL0][+15027s][NC-BLOCK 6] Starting collision finding: tottunnel=44, totcond=530
+[LVL0][+15080s][NC-BLOCK 6] Collision found
+No matching processes belonging to you were found
+[LVL0][+15080s][NC-BLOCK 6] FINISHED: 477 s
+[LVL0][+15080s][FINISHED] Found collision: file1_7.bin file2_7.bin
+[LVL2][+15080s][KILL PROCESS ON NODE0] md5_birthdaysearch
+No matching processes belonging to you were found
+../scripts/fastcpc.sh: line 131: 70277 Terminated: 15          $HASHCLASHBIN/md5_diffpathconnect --threads $HALFTHREADS -w workdir$i -t $TTT --inputfilelow $INPUTFILELOW.done --inputfilehigh $UPPERPATH > workdir$i/connect.log 2>&1
+[LVL2][+15080s][KILL PROCESS ON NODE0] md5_diffpathhelper
+No matching processes belonging to you were found
+[LVL2][+15080s][KILL PROCESS ON NODE0] md5_diffpathconnect
+No matching processes belonging to you were found
+[LVL2][+15080s][KILL PROCESS ON NODE0] md5_diffpathforward
+No matching processes belonging to you were found

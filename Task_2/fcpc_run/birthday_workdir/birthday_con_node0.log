@@ -1,0 +1,412 @@
+Warning: no OS randomness!
+Birthday search for MD5 chosen-prefix collisions
+Copyright (C) 2009 Marc Stevens
+http://homepages.cwi.nl/~stevens/
+
+IHV1 = {1732584193,4023233417,2562383102,271733878}
+IHV1 = 0123456789abcdeffedcba9876543210
+
+IHV2 = {1732584193,4023233417,2562383102,271733878}
+IHV2 = 0123456789abcdeffedcba9876543210
+
+Maximum of near-collision blocks: 7
+Differential Path Type range: 2
+Hybrid bits: 0
+Maximum amount of memory in MB for trails: 8000 (local: 8000)
+Estimated number of trails that will be stored:    149796571 (local: 149796571)
+Estimated number of trails that will be generated: 119622642
+Estimated complexity per trail: 2^(14)
+Estimated complexity on trails: 2^(40.8339)
+Estimated complexity on collisions: 2^(32.3383)
+
+Thread 1 created.
+Thread 6 created.
+Thread 3 created.
+Thread 7 created.
+Thread 5 created.
+Thread 8 created.
+Thread 9 created.
+Thread 11 created.
+Thread 10 created.
+Thread 4 created.
+Thread 2 created.
+Thread 12 created.
+Work: 2^(30.3886), Coll.: 0(uf=0,nuf=0,?=0,q=0,rh=0), Blocks: 64
+Work: 2^(31.4883), Coll.: 0(uf=0,nuf=0,?=0,q=0,rh=0), Blocks: 64
+Work: 2^(32.0205), Coll.: 0(uf=0,nuf=0,?=0,q=0,rh=0), Blocks: 64
+Work: 2^(32.393), Coll.: 1(uf=0,nuf=1,?=0,q=0,rh=0), Blocks: 64
+
+Work: 2^(32.4924), Coll.: 2(uf=1,nuf=1,?=0,q=0,rh=0), Blocks: 14
+Work: 2^(32.7544), Coll.: 2(uf=1,nuf=1,?=0,q=0,rh=0), Blocks: 14
+Work: 2^(33.0432), Coll.: 2(uf=1,nuf=1,?=0,q=0,rh=0), Blocks: 14
+Work: 2^(33.2758), Coll.: 3(uf=2,nuf=1,?=0,q=0,rh=0), Blocks: 14
+
+Work: 2^(33.3039), Coll.: 4(uf=3,nuf=1,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(33.4417), Coll.: 4(uf=3,nuf=1,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(33.5842), Coll.: 4(uf=3,nuf=1,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(33.7549), Coll.: 5(uf=4,nuf=1,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(33.907), Coll.: 7(uf=6,nuf=1,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.0448), Coll.: 8(uf=7,nuf=1,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.1501), Coll.: 9(uf=7,nuf=2,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.2526), Coll.: 10(uf=7,nuf=3,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.3441), Coll.: 11(uf=8,nuf=3,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.4427), Coll.: 12(uf=8,nuf=4,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.5391), Coll.: 14(uf=8,nuf=6,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.6294), Coll.: 15(uf=8,nuf=7,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.7076), Coll.: 16(uf=8,nuf=8,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.7781), Coll.: 19(uf=9,nuf=10,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.8361), Coll.: 21(uf=11,nuf=10,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.9071), Coll.: 26(uf=15,nuf=11,?=0,q=0,rh=0), Blocks: 12
+Work: 2^(34.9774), Coll.: 27(uf=16,nuf=11,?=0,q=0,rh=0), Blocks: 12
+
+Work: 2^(35.0281), Coll.: 32(uf=18,nuf=14,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.0446), Coll.: 32(uf=18,nuf=14,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.0957), Coll.: 36(uf=19,nuf=17,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.1528), Coll.: 38(uf=21,nuf=17,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.2028), Coll.: 40(uf=22,nuf=18,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.2581), Coll.: 44(uf=25,nuf=19,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.3134), Coll.: 49(uf=29,nuf=20,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.3622), Coll.: 52(uf=30,nuf=22,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.4056), Coll.: 55(uf=31,nuf=24,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.4454), Coll.: 57(uf=31,nuf=26,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.4941), Coll.: 64(uf=36,nuf=28,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.5393), Coll.: 67(uf=38,nuf=29,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.5776), Coll.: 73(uf=41,nuf=32,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.6111), Coll.: 74(uf=41,nuf=33,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.653), Coll.: 79(uf=42,nuf=37,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.6934), Coll.: 84(uf=46,nuf=38,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.7328), Coll.: 89(uf=48,nuf=41,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.7713), Coll.: 91(uf=50,nuf=41,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.7991), Coll.: 96(uf=51,nuf=45,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.8343), Coll.: 99(uf=52,nuf=47,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.8703), Coll.: 101(uf=54,nuf=47,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.9053), Coll.: 107(uf=55,nuf=52,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.9367), Coll.: 108(uf=56,nuf=52,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.9629), Coll.: 110(uf=57,nuf=53,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(35.9943), Coll.: 116(uf=59,nuf=57,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.0281), Coll.: 124(uf=63,nuf=61,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.0581), Coll.: 130(uf=66,nuf=64,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.0876), Coll.: 135(uf=69,nuf=66,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.11), Coll.: 138(uf=70,nuf=68,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.1241), Coll.: 139(uf=70,nuf=69,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.128), Coll.: 140(uf=71,nuf=69,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.137), Coll.: 141(uf=71,nuf=70,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.1396), Coll.: 142(uf=71,nuf=71,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.1498), Coll.: 144(uf=72,nuf=72,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.1549), Coll.: 145(uf=72,nuf=73,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.1826), Coll.: 152(uf=76,nuf=76,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.2071), Coll.: 160(uf=82,nuf=78,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.23), Coll.: 167(uf=85,nuf=82,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.2573), Coll.: 176(uf=88,nuf=88,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.2831), Coll.: 187(uf=97,nuf=90,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3082), Coll.: 194(uf=101,nuf=93,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3296), Coll.: 203(uf=105,nuf=98,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3529), Coll.: 208(uf=108,nuf=100,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3779), Coll.: 216(uf=113,nuf=103,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3811), Coll.: 216(uf=113,nuf=103,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3887), Coll.: 218(uf=114,nuf=104,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.392), Coll.: 218(uf=114,nuf=104,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.3952), Coll.: 219(uf=114,nuf=105,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.4026), Coll.: 219(uf=114,nuf=105,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.4174), Coll.: 224(uf=117,nuf=107,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.4406), Coll.: 234(uf=122,nuf=112,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.4603), Coll.: 239(uf=125,nuf=114,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.4816), Coll.: 246(uf=129,nuf=117,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5036), Coll.: 253(uf=132,nuf=121,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5262), Coll.: 261(uf=136,nuf=125,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5447), Coll.: 273(uf=143,nuf=130,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5639), Coll.: 278(uf=147,nuf=131,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5734), Coll.: 282(uf=151,nuf=131,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5752), Coll.: 282(uf=151,nuf=131,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5818), Coll.: 285(uf=154,nuf=131,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5846), Coll.: 289(uf=155,nuf=134,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5875), Coll.: 292(uf=156,nuf=136,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.5996), Coll.: 295(uf=158,nuf=137,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.6199), Coll.: 306(uf=164,nuf=142,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.6399), Coll.: 311(uf=165,nuf=146,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.6605), Coll.: 320(uf=169,nuf=151,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.6756), Coll.: 322(uf=169,nuf=153,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.694), Coll.: 330(uf=172,nuf=158,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7138), Coll.: 337(uf=175,nuf=162,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7334), Coll.: 345(uf=180,nuf=165,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7376), Coll.: 349(uf=183,nuf=166,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7435), Coll.: 353(uf=186,nuf=167,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7452), Coll.: 354(uf=186,nuf=168,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7486), Coll.: 356(uf=187,nuf=169,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7544), Coll.: 359(uf=188,nuf=171,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7644), Coll.: 366(uf=190,nuf=176,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.78), Coll.: 377(uf=197,nuf=180,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.7971), Coll.: 389(uf=206,nuf=183,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8141), Coll.: 390(uf=207,nuf=183,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8317), Coll.: 407(uf=216,nuf=191,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8459), Coll.: 413(uf=218,nuf=195,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8616), Coll.: 422(uf=223,nuf=199,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8793), Coll.: 434(uf=229,nuf=205,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8885), Coll.: 437(uf=231,nuf=206,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8892), Coll.: 437(uf=231,nuf=206,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8938), Coll.: 442(uf=235,nuf=207,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8976), Coll.: 442(uf=235,nuf=207,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.8991), Coll.: 444(uf=235,nuf=209,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.9052), Coll.: 448(uf=235,nuf=213,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.9209), Coll.: 457(uf=240,nuf=217,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.9343), Coll.: 469(uf=248,nuf=221,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.9513), Coll.: 479(uf=252,nuf=227,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.9658), Coll.: 495(uf=261,nuf=234,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.9794), Coll.: 501(uf=264,nuf=237,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(36.995), Coll.: 510(uf=271,nuf=239,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.009), Coll.: 517(uf=274,nuf=243,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.0216), Coll.: 524(uf=278,nuf=246,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.0369), Coll.: 532(uf=280,nuf=252,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.0526), Coll.: 545(uf=288,nuf=257,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.0682), Coll.: 556(uf=294,nuf=262,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.0822), Coll.: 563(uf=296,nuf=267,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.0954), Coll.: 575(uf=301,nuf=274,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.1092), Coll.: 591(uf=310,nuf=281,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.1242), Coll.: 602(uf=318,nuf=284,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.139), Coll.: 612(uf=327,nuf=285,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.153), Coll.: 625(uf=333,nuf=292,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.165), Coll.: 638(uf=342,nuf=296,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.1782), Coll.: 648(uf=348,nuf=300,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.1924), Coll.: 664(uf=355,nuf=309,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2059), Coll.: 671(uf=358,nuf=313,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2151), Coll.: 679(uf=364,nuf=315,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2284), Coll.: 686(uf=369,nuf=317,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.241), Coll.: 703(uf=380,nuf=323,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2511), Coll.: 714(uf=385,nuf=329,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2641), Coll.: 725(uf=392,nuf=333,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2752), Coll.: 742(uf=404,nuf=338,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2869), Coll.: 750(uf=405,nuf=345,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.2996), Coll.: 764(uf=415,nuf=349,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.3132), Coll.: 776(uf=422,nuf=354,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.3268), Coll.: 793(uf=434,nuf=359,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.3402), Coll.: 805(uf=441,nuf=364,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.353), Coll.: 815(uf=449,nuf=366,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.3656), Coll.: 826(uf=452,nuf=374,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.3787), Coll.: 843(uf=459,nuf=384,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.3916), Coll.: 855(uf=464,nuf=391,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4044), Coll.: 870(uf=472,nuf=398,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4171), Coll.: 892(uf=487,nuf=405,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4286), Coll.: 911(uf=497,nuf=414,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4411), Coll.: 936(uf=508,nuf=428,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.453), Coll.: 955(uf=516,nuf=439,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4612), Coll.: 963(uf=521,nuf=442,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.472), Coll.: 985(uf=536,nuf=449,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4806), Coll.: 997(uf=540,nuf=457,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.4912), Coll.: 1014(uf=548,nuf=466,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5012), Coll.: 1027(uf=558,nuf=469,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5102), Coll.: 1036(uf=561,nuf=473,?=2,q=0,rh=0), Blocks: 9
+Work: 2^(37.521), Coll.: 1049(uf=566,nuf=483,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5289), Coll.: 1061(uf=571,nuf=490,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5387), Coll.: 1074(uf=579,nuf=495,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5483), Coll.: 1087(uf=586,nuf=501,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5565), Coll.: 1105(uf=595,nuf=510,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5665), Coll.: 1115(uf=600,nuf=515,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.575), Coll.: 1126(uf=608,nuf=518,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5845), Coll.: 1136(uf=613,nuf=523,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.5939), Coll.: 1146(uf=617,nuf=529,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6022), Coll.: 1167(uf=625,nuf=542,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6128), Coll.: 1188(uf=637,nuf=551,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6225), Coll.: 1203(uf=645,nuf=558,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6307), Coll.: 1218(uf=655,nuf=563,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6403), Coll.: 1229(uf=662,nuf=567,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6493), Coll.: 1249(uf=673,nuf=576,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6573), Coll.: 1267(uf=683,nuf=584,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6671), Coll.: 1288(uf=690,nuf=598,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6754), Coll.: 1304(uf=700,nuf=604,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6834), Coll.: 1322(uf=709,nuf=613,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.6935), Coll.: 1348(uf=723,nuf=625,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7013), Coll.: 1355(uf=728,nuf=627,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.709), Coll.: 1375(uf=740,nuf=635,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7172), Coll.: 1388(uf=748,nuf=640,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7244), Coll.: 1400(uf=756,nuf=644,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7342), Coll.: 1414(uf=763,nuf=651,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7427), Coll.: 1429(uf=776,nuf=653,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7498), Coll.: 1441(uf=779,nuf=662,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7594), Coll.: 1458(uf=787,nuf=671,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7665), Coll.: 1474(uf=795,nuf=677,?=2,q=0,rh=0), Blocks: 9
+Work: 2^(37.7748), Coll.: 1492(uf=807,nuf=685,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7834), Coll.: 1516(uf=818,nuf=698,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7903), Coll.: 1527(uf=822,nuf=705,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.7992), Coll.: 1546(uf=832,nuf=714,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8061), Coll.: 1563(uf=843,nuf=720,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.815), Coll.: 1590(uf=853,nuf=737,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8241), Coll.: 1606(uf=860,nuf=746,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8329), Coll.: 1619(uf=866,nuf=753,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8424), Coll.: 1646(uf=883,nuf=763,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8518), Coll.: 1665(uf=893,nuf=772,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.86), Coll.: 1683(uf=903,nuf=780,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8693), Coll.: 1698(uf=912,nuf=786,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8777), Coll.: 1713(uf=921,nuf=792,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8861), Coll.: 1729(uf=929,nuf=800,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.8952), Coll.: 1741(uf=934,nuf=807,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9039), Coll.: 1765(uf=944,nuf=821,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.913), Coll.: 1790(uf=957,nuf=833,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9215), Coll.: 1809(uf=965,nuf=844,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.93), Coll.: 1831(uf=982,nuf=849,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9382), Coll.: 1851(uf=999,nuf=852,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.947), Coll.: 1878(uf=1017,nuf=861,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9546), Coll.: 1904(uf=1028,nuf=876,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9615), Coll.: 1926(uf=1039,nuf=887,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9687), Coll.: 1947(uf=1047,nuf=900,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9745), Coll.: 1957(uf=1050,nuf=907,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.982), Coll.: 1980(uf=1061,nuf=919,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9888), Coll.: 1999(uf=1076,nuf=923,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(37.9959), Coll.: 2020(uf=1086,nuf=934,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0029), Coll.: 2040(uf=1096,nuf=943,?=1,q=0,rh=0), Blocks: 9
+Work: 2^(38.0092), Coll.: 2057(uf=1103,nuf=954,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0172), Coll.: 2078(uf=1117,nuf=961,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0252), Coll.: 2097(uf=1128,nuf=969,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0336), Coll.: 2121(uf=1138,nuf=983,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0418), Coll.: 2143(uf=1149,nuf=994,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0497), Coll.: 2162(uf=1160,nuf=1002,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0572), Coll.: 2192(uf=1176,nuf=1011,?=5,q=0,rh=0), Blocks: 9
+Work: 2^(38.0646), Coll.: 2215(uf=1190,nuf=1025,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.072), Coll.: 2240(uf=1202,nuf=1038,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0784), Coll.: 2259(uf=1213,nuf=1046,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0847), Coll.: 2281(uf=1223,nuf=1058,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.0907), Coll.: 2296(uf=1232,nuf=1064,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.097), Coll.: 2326(uf=1246,nuf=1080,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1036), Coll.: 2345(uf=1252,nuf=1093,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1098), Coll.: 2368(uf=1261,nuf=1107,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1169), Coll.: 2389(uf=1275,nuf=1114,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1234), Coll.: 2414(uf=1289,nuf=1125,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1292), Coll.: 2424(uf=1295,nuf=1129,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1353), Coll.: 2449(uf=1307,nuf=1142,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1414), Coll.: 2472(uf=1321,nuf=1151,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1481), Coll.: 2489(uf=1325,nuf=1164,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1541), Coll.: 2503(uf=1329,nuf=1174,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1602), Coll.: 2527(uf=1339,nuf=1188,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1668), Coll.: 2559(uf=1354,nuf=1205,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1728), Coll.: 2580(uf=1369,nuf=1211,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1787), Coll.: 2606(uf=1386,nuf=1220,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1843), Coll.: 2625(uf=1394,nuf=1231,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1902), Coll.: 2651(uf=1404,nuf=1247,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.1957), Coll.: 2670(uf=1414,nuf=1256,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2019), Coll.: 2698(uf=1426,nuf=1272,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2083), Coll.: 2721(uf=1436,nuf=1285,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2156), Coll.: 2758(uf=1452,nuf=1306,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2222), Coll.: 2790(uf=1470,nuf=1320,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2291), Coll.: 2814(uf=1483,nuf=1331,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2363), Coll.: 2849(uf=1499,nuf=1350,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2432), Coll.: 2876(uf=1513,nuf=1363,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2498), Coll.: 2898(uf=1528,nuf=1370,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2569), Coll.: 2929(uf=1546,nuf=1383,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2639), Coll.: 2954(uf=1558,nuf=1396,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2698), Coll.: 2983(uf=1567,nuf=1416,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2753), Coll.: 3001(uf=1574,nuf=1427,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2808), Coll.: 3024(uf=1587,nuf=1437,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2863), Coll.: 3040(uf=1594,nuf=1446,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2918), Coll.: 3062(uf=1604,nuf=1458,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.2975), Coll.: 3083(uf=1615,nuf=1468,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3026), Coll.: 3109(uf=1625,nuf=1484,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3083), Coll.: 3132(uf=1633,nuf=1499,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3137), Coll.: 3153(uf=1641,nuf=1512,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.319), Coll.: 3178(uf=1654,nuf=1524,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3247), Coll.: 3202(uf=1663,nuf=1539,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3298), Coll.: 3221(uf=1675,nuf=1546,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3354), Coll.: 3244(uf=1687,nuf=1557,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3403), Coll.: 3267(uf=1699,nuf=1568,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3453), Coll.: 3291(uf=1711,nuf=1580,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3509), Coll.: 3317(uf=1718,nuf=1599,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3561), Coll.: 3341(uf=1726,nuf=1615,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3619), Coll.: 3369(uf=1740,nuf=1629,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3673), Coll.: 3396(uf=1751,nuf=1645,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3736), Coll.: 3427(uf=1764,nuf=1663,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3801), Coll.: 3450(uf=1773,nuf=1677,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3866), Coll.: 3482(uf=1794,nuf=1688,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3927), Coll.: 3515(uf=1810,nuf=1705,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.3992), Coll.: 3554(uf=1829,nuf=1725,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4056), Coll.: 3575(uf=1838,nuf=1737,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4116), Coll.: 3610(uf=1852,nuf=1758,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4177), Coll.: 3643(uf=1872,nuf=1771,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4238), Coll.: 3681(uf=1893,nuf=1788,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4296), Coll.: 3712(uf=1909,nuf=1803,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4356), Coll.: 3740(uf=1926,nuf=1814,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4416), Coll.: 3771(uf=1940,nuf=1831,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4479), Coll.: 3824(uf=1971,nuf=1853,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4533), Coll.: 3851(uf=1988,nuf=1863,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4595), Coll.: 3890(uf=2005,nuf=1885,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4659), Coll.: 3939(uf=2032,nuf=1907,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4718), Coll.: 3971(uf=2049,nuf=1922,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4776), Coll.: 4004(uf=2068,nuf=1936,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4837), Coll.: 4050(uf=2092,nuf=1958,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4894), Coll.: 4072(uf=2106,nuf=1966,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.4955), Coll.: 4106(uf=2124,nuf=1982,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5012), Coll.: 4134(uf=2135,nuf=1999,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5064), Coll.: 4149(uf=2145,nuf=2004,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5121), Coll.: 4184(uf=2159,nuf=2025,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5175), Coll.: 4215(uf=2170,nuf=2045,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5234), Coll.: 4248(uf=2186,nuf=2062,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5292), Coll.: 4285(uf=2198,nuf=2087,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5346), Coll.: 4327(uf=2218,nuf=2109,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5397), Coll.: 4356(uf=2230,nuf=2126,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5438), Coll.: 4372(uf=2237,nuf=2135,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5486), Coll.: 4405(uf=2252,nuf=2153,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5527), Coll.: 4428(uf=2263,nuf=2165,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5577), Coll.: 4459(uf=2279,nuf=2180,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5635), Coll.: 4490(uf=2293,nuf=2197,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5687), Coll.: 4531(uf=2318,nuf=2213,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5744), Coll.: 4559(uf=2331,nuf=2228,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5801), Coll.: 4603(uf=2357,nuf=2246,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5855), Coll.: 4646(uf=2378,nuf=2268,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5907), Coll.: 4688(uf=2397,nuf=2291,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.5963), Coll.: 4722(uf=2417,nuf=2305,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6014), Coll.: 4755(uf=2432,nuf=2323,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6065), Coll.: 4783(uf=2443,nuf=2340,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6118), Coll.: 4822(uf=2465,nuf=2357,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6168), Coll.: 4864(uf=2486,nuf=2378,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6224), Coll.: 4900(uf=2509,nuf=2391,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6274), Coll.: 4936(uf=2527,nuf=2409,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6328), Coll.: 4975(uf=2546,nuf=2429,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6378), Coll.: 5013(uf=2566,nuf=2447,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6423), Coll.: 5044(uf=2586,nuf=2458,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6464), Coll.: 5077(uf=2602,nuf=2475,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6507), Coll.: 5106(uf=2618,nuf=2488,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6547), Coll.: 5125(uf=2631,nuf=2494,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6589), Coll.: 5154(uf=2646,nuf=2508,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6639), Coll.: 5185(uf=2659,nuf=2526,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6679), Coll.: 5210(uf=2672,nuf=2538,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6723), Coll.: 5233(uf=2687,nuf=2546,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6769), Coll.: 5263(uf=2702,nuf=2561,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6811), Coll.: 5284(uf=2714,nuf=2570,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6853), Coll.: 5314(uf=2732,nuf=2582,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6898), Coll.: 5340(uf=2741,nuf=2599,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6942), Coll.: 5375(uf=2756,nuf=2619,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.6981), Coll.: 5410(uf=2774,nuf=2636,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7024), Coll.: 5443(uf=2789,nuf=2654,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7063), Coll.: 5471(uf=2804,nuf=2667,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7109), Coll.: 5512(uf=2823,nuf=2689,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7156), Coll.: 5545(uf=2837,nuf=2708,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7207), Coll.: 5581(uf=2852,nuf=2729,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7259), Coll.: 5624(uf=2876,nuf=2748,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.731), Coll.: 5663(uf=2898,nuf=2765,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7356), Coll.: 5703(uf=2921,nuf=2782,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7399), Coll.: 5730(uf=2936,nuf=2794,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7445), Coll.: 5765(uf=2954,nuf=2811,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7491), Coll.: 5794(uf=2968,nuf=2826,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7541), Coll.: 5836(uf=2989,nuf=2847,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7585), Coll.: 5874(uf=3011,nuf=2863,?=0,q=0,rh=0), Blocks: 9
+Work: 2^(38.7635), Coll.: 5925(uf=3036,nuf=2889,?=0,q=0,rh=0), Blocks: 9
+
+Work: 2^(38.7672), Coll.: 5953(uf=3050,nuf=2902,?=1,q=0,rh=0), Blocks: 7
+
+Work: 2^(38.7672), Coll.: 5953(uf=3050,nuf=2902,?=1,q=0,rh=0), Blocks: 7
+
+IHV1   = {1624744840,2958479317,578727938,3448206822}
+IHV2   = {1624744840,821684050,2663407601,1237919189}
+dIHV   = {0,2158172029,2084679663,2084679663}
+Dv     = [!-0,-4,-12,-14,17,22,-26,31!]
+Dw     = [!-1,4,-7,11,-13,-15,17,-21,23,26!]
+Blocks = 7
+
+Msg1   = 1819043144 1226845295 544039200 1701603686 1026441504 17925218 3947746165 836670336 1160829377 1897840379 1969425136 2561290408 2732837399 0 133078077 2190797472
+Msg2   = 1819043144 1226845295 544039200 1701603686 623788576 672660390 1649595162 3612723147 1608877773 2600567760 1627805005 2316404907 3006549498 0 2736648053 803056172
+Wrote birthdaycollision block to: 
+	birthday_workdir/birthdayblock1_[!-0,-4,-12,-14,17,22,-26,31!]_[!-1,4,-7,11,-13,-15,17,-21,23,26!].bin
+	birthday_workdir/birthdayblock2_[!-0,-4,-12,-14,17,22,-26,31!]_[!-1,4,-7,11,-13,-15,17,-21,23,26!].bin
+Thread 2 exited.          
+Thread 11 exited.          
+Thread 8 exited.          
+Work: 2^(38.7678), Coll.: 5957(uf=3050,nuf=2903,?=0,q=4,rh=0), Blocks: 7
+
+Waiting for threads to finish...

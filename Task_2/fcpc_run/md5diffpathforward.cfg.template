@@ -1,0 +1,6 @@
+autobalance = 3000000
+estimate = 2
+fillfraction = 1
+maxsdrs = 128
+minQ456tunnel = 18
+minQ91011tunnel = 18

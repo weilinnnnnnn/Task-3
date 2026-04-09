@@ -1,0 +1,4 @@
+Qcondstart = 21
+waitinputfile = true
+# Ignore low quality full paths
+mintunnel=35
