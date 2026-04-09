@@ -183,4 +183,49 @@ The follwing files are also taken from the corkami/collisions repository by Ange
  - pdf1.bin
  - pdf2.bin
 
+#Task 4: Forging Digital Contract
+##Overview
+We are demonstrating how we can make use of identical prefix collision (IPC) to produce 2 contracts with different payment amount stated with the same MD5 hashes. Two contracts will be generated, one showing a payment amount of $10 while the other showing $10000. 
 
+## Prerequisites
+ - Docker
+
+## Installation and Setup
+### Create a Ubuntu 24.04 container (Skip if ran previously)
+```bash
+docker run -it --name collision ubuntu:24.04 bash
+```
+### Download dependencies inside the container (Skip if ran previously)
+```bash
+apt update && apt install -y git python3 python3-pip 
+```
+### Clone the repository (Skip if ran previously)
+```bash
+git clone https://github.com/weilinnnnnnn/Practical-Collision-Attack
+```
+
+### Build mutool 1.18 (Skip if ran previously)
+```bash
+apt install -y wget && wget https://mupdf.com/downloads/archive/mupdf-1.18.0-source.tar.gz && tar -xzf mupdf-1.18.0-source.tar.gz && cd mupdf-1.18.0-source && make -j$(nproc) HAVE_X11=no HAVE_GLUT=no
+```
+## Run the Collision 
+Run the shell script which handles everything
+```bash
+cd /Practical-Collision-Attack/Task_4
+bash run_contract.sh
+```
+This will 
+ 1. Install Python dependency ReportLab
+ 2. Generate two different input PDF files (real_contract.pdf, fraudulent_contract.pdf) using create_contract_pdf.py
+ 3. Run the MD5 collision attack script (pdf.py)
+ 4. Output the MD5 and SHA-256 hashes of the collision files
+
+## Interpreting the Output
+Both the collision PDF files generated will have the same MD5 but diffferent SHA-256 and they are displaying the same contract with different payment amount.
+
+## Credits
+The collision script 'pdf.py' is taken from the corkami/collisions repository by Ange Albertini (https://github.com/corkami/collisions), with some modifications to fix Python 3.12 compatibility issues. 
+The follwing files are also taken from the corkami/collisions repository by Ange Albertini (https://github.com/corkami/collisions):
+ - dummy.pdf
+ - pdf1.bin
+ - pdf2.bin
