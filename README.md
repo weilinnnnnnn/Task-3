@@ -145,7 +145,7 @@ git clone https://github.com/corkami/collisions.git
 ## Run the Collision
 ### Create a folder for TXT Collisions
 ```bash
-mkdir pdf_workdir && cd pdf_workdir
+mkdir txt_workdir && cd txt_workdir
 ```
 
 ### Run the make_prefix file
