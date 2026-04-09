@@ -123,7 +123,7 @@ apt install -y wget && wget https://mupdf.com/downloads/archive/mupdf-1.18.0-sou
 ## Run the Collision 
 Run the shell script which handles everything
 ```bash
-cd /Practical-Collision-Attack
+cd /Practical-Collision-Attack/Task_3_PDF
 bash run.sh
 ```
 This will 
