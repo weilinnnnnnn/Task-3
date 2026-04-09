@@ -93,11 +93,12 @@ md5sum collision1.jpg collision2.jpg # match
 sha256sum collision1.jpg collision2.jpg # differ
 ```
 
-# Task 3 Unicoll Collision for PDF Files
+# Task 3 
 ## Overview
-We are demonstrating identical prefix collision attack on PDF files. Two PDF files with different visible content are generated using the reportlab library and then fed into a collision script to produce two different output files (collision1.pdf, collision2.pdf) that have identical MD5 hashes but different content.
+We are demonstrating identical prefix collision attack on PDF and TXT files. Two PDF files with different visible content are generated using the reportlab library and then fed into a collision script to produce two different output files (collision1.pdf, collision2.pdf) that have identical MD5 hashes but different content. Two TXT files with identical visble content are generated using a prefix creation script then fed into corkami's collision script to produce two different output files (collision1.txt, collision2.txt) that have identical MD5 hashes but same content and different collision blocks (suffixes).
 
-## Prerequisites
+## 1. Unicoll Collision for PDF Files
+### Prerequisites
  - Docker
 
 ## Installation and Setup
@@ -132,6 +133,46 @@ This will
 ## Interpreting the Output
 Both the collision PDF files generated will have the same MD5 but diffferent SHA-256 and they are displaying different content.
 
+## 2. Collision for TXT Files
+## Installation and Setup
+### Clone the repository 
+```bash
+git clone https://github.com/corkami/collisions.git
+```
+
+## Run the Collision
+### Create a folder for TXT Collisions
+```bash
+mkdir pdf_workdir && cd pdf_workdir
+```
+
+### Run the make_prefix file
+```bash
+python3 make_prefix.py
+```
+
+### Run the Collision Generation
+```bash
+../scripts/generic_ipc.sh prefix.pdf
+```
+
+## Checking the Hashes
+### Verify hash of each file
+```bash
+md5 collision1.bin collision2.bin
+```
+
+### Show byte differences between files
+```bash
+diff <(xxd collision1.bin) <(xxd collision2.bin)
+```
+
+### Convert .bin files to .txt by renaming file extension
+
+This will 
+ 1. Generate one TXT file with the identical prefix (prefix.txt) using make_prefix.py
+ 2. Run the corkami MD5 collision attack script (generate_ipc.sh)
+ 3. Output the MD5 and byte differences of the collision files
 
 ## Credits
 The collision script 'pdf.py' is taken from the corkami/collisions repository by Ange Albertini (https://github.com/corkami/collisions), with some modifications to fix Python 3.12 compatibility issues. 
